@@ -26,4 +26,4 @@ Architecture = 50I-75U	375-100-50-1
 AVERAGE
 ------------------------------------
 MAE = 0.7069
-Architecture = 50I-75U	375-100-50-1
+Architecture = 50I-75U	375-100-50-10
